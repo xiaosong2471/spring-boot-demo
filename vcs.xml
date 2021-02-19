@@ -10,6 +10,14 @@
           <option name="url" value="https://github.com/xiaosong2471/spring-boot-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/xiaosong2471/spring-boot-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitee.com" />
+          <option name="userName" value="xiaosong2471" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="G:\IdealProjects\cloud2021" />
